@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OceanAssetSpawner
+  - PlayerPlatform
+  - PlayerBall
+  - gameplay
+  - ScoreText
+  - CText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2650346059
+    locked: 0
+  - name: BackGroundObject
+    uniqueID: 1299641071
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1222233455
+    locked: 0
+  - name: ForeGroundObject
+    uniqueID: 3383303549
+    locked: 0
+  - name: JumpObject
+    uniqueID: 4178129371
+    locked: 0
+  - name: Player
+    uniqueID: 3177018635
+    locked: 0
+  - name: TitleScreen
+    uniqueID: 4257399151
+    locked: 0
